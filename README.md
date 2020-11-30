@@ -1,2 +1,2 @@
 # Python_basics
-Some lab in python
+Some Labs in python
